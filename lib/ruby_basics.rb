@@ -1,9 +1,10 @@
 def division(num1, num2)
+  puts 4 \ 2
  
 end
 
 def assign_variable(value)
-  
+  puts = "Hello World!"
 end
 
 def argue
